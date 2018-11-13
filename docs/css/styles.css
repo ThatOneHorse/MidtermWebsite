@@ -1,8 +1,11 @@
 #wrapper{
     width: 960px;
 }
-#top{
+#top {
     height: 130px;
+}
+#menu{
+    line-height: 130px;
 }
 .floatLeft{
     float: left;
@@ -12,4 +15,10 @@
 }
 .clearFix {
     clear: both;
+}
+.displayInline{
+    display: inline;
+}
+.textRight{
+    text-align: right;
 }

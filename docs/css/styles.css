@@ -56,3 +56,9 @@ a{
 .bgBlack{
     background-color: black;
 }
+.clearMargin{
+    margin: 0;
+}
+.clearPadding{
+    padding: 0;
+}

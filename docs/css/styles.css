@@ -1,0 +1,15 @@
+#wrapper{
+    width: 960px;
+}
+#top{
+    height: 130px;
+}
+.floatLeft{
+    float: left;
+}
+.floatRight{
+    float: right;
+}
+.clearFix {
+    clear: both;
+}

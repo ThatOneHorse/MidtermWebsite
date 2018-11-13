@@ -1,6 +1,3 @@
-#wrapper{
-    width: 960px;
-}
 #top {
     height: 130px;
 }
@@ -10,17 +7,12 @@
 #banner{
     background-image: url("../images/4x4-adventure-automobile-1571783.jpg");
     background-size: cover;
-    width: 960px;
-    height: 554px;
 }
 #content{
     opacity: 0.5;
-    height: 554px;
-    width: 480px;
     line-height: 554px;
 }
 #aboutContent{
-    height: 554px;
     margin: auto;
     width: 50%;
 }
@@ -33,6 +25,12 @@
 }
 a{
     text-decoration: none
+}
+.stdHeight{
+    height: 554px;
+}
+.stdWidth{
+    width: 960px;
 }
 .floatLeft{
     float: left;

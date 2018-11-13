@@ -7,6 +7,22 @@
 #menu{
     line-height: 130px;
 }
+#banner{
+    background-image: url("../images/4x4-adventure-automobile-1571783.jpg");
+    position: relative;
+    background-size: cover;
+    width: 960px;
+    height: 554px;
+}
+#footer{
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+}
+a{
+    text-decoration: none
+}
 .floatLeft{
     float: left;
 }
@@ -21,4 +37,10 @@
 }
 .textRight{
     text-align: right;
+}
+.textCenter{
+    text-align: center;
+}
+.Helvetica {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }

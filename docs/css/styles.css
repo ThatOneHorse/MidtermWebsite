@@ -9,16 +9,22 @@
 }
 #banner{
     background-image: url("../images/4x4-adventure-automobile-1571783.jpg");
-    position: relative;
     background-size: cover;
     width: 960px;
     height: 554px;
 }
+#content{
+    opacity: 0.5;
+    height: 554px;
+    width: 480px;
+    line-height: 554px;
+}
 #footer{
-    background-color: black;
-    color: white;
     height: 100px;
     line-height: 100px;
+}
+#heading2{
+    opacity: 100%;
 }
 a{
     text-decoration: none
@@ -43,4 +49,10 @@ a{
 }
 .Helvetica {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.colorWhite{
+    color: white;
+}
+.bgBlack{
+    background-color: black;
 }
